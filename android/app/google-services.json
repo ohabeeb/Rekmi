@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1035999178492",
+    "project_id": "rekmi-3351a",
+    "storage_bucket": "rekmi-3351a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035999178492:android:3ceb6ef7c959f1d9e6f179",
+        "android_client_info": {
+          "package_name": "com.rekmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035999178492-ue31hbj21sd56k6q4afdsiu8fjed7ot5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rekmi",
+            "certificate_hash": "0150eab88442743b0c53a0754ceb0620a0e2b6e6"
+          }
+        },
+        {
+          "client_id": "1035999178492-4v99065usqeavtjpsm5bedo5b6seikme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDTAxxfXHXxA3kikVtnSBx4__4HaiQq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035999178492-4v99065usqeavtjpsm5bedo5b6seikme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
